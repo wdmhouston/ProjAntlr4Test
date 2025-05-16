@@ -1,0 +1,1 @@
+﻿java org.antlr.v4.Tool -package ProjAntlr4Test.antlr -Dlanguage=CSharp Hello.g4 -visitor

@@ -1,0 +1,12 @@
+T__0=1
+T__1=2
+FM=3
+PREDICTION=4
+P1=5
+P2=6
+TRUE=7
+FALSE=8
+WS=9
+STRING=10
+'{'=1
+'}'=2
